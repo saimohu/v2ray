@@ -8,8 +8,9 @@
     "settings": {
       "clients": [
         {
-          "id": "your_uuid",
+          "id": "78948e4d-e996-4d4c-bd50-2420e2f0c11f",
           "alterId": 64
+          "security": "chacha20-poly1305"
         }
       ]
     },
